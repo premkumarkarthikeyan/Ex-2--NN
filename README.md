@@ -1,5 +1,5 @@
-# Name : Divakar R
-# Register : 212222240026
+# Name :prem kumar k
+# Register : 212222230111
 # Date : 
 # Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
